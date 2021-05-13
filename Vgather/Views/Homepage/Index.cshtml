@@ -1,0 +1,120 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<h3>@TempData["Message"]</h3>
+<div class="container-fluid" style="margin-top:-150px;margin-left:100px; margin-bottom:-150px; margin-right:-500px;height:500px;width:1000px">
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-top:200px">
+
+
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+
+            <div class="item active">
+                <a href="~/Homepage/Participants ">
+                    <img src="~/Imagescar/image01.jpg" alt="Los Angeles" style="width:100%">
+                </a>
+                <div class="carousel-caption">
+                    <h1>Conference</h1>
+                  
+                </div>
+            </div>
+
+            <div class="item">
+                <a href="~/Homepage/Participants ">
+
+                    <img src="~/imagesabt/images.jpg" alt="Chicago" style="width:100%">
+                </a>
+                    <div class="carousel-caption">
+                        <h1>Party</h1>
+                        
+                    </div>
+            </div>
+
+            <div class="item">
+                <a href="~/Homepage/Participants ">
+                    <img src="~/Imagescar/image03.jpg" alt="New York" style="width:100%">
+                </a>
+                    <div class="carousel-caption">
+                        <h1>Seminar</h1>
+                       
+                    </div>
+            </div>
+
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-2">
+            <img src="~/images/home1.jpg" style="width:400px;height:400px;margin-bottom:-1100px">
+        </div>
+     
+        <div class="col-md-8" style="margin-left:500px;margin-top:500px">
+            <h1 @*style="font-family: 'cookie'";*@><b><em>EVENT SUCCESS SOFTWARE FOR MODERN PLANNERS</em></b></h1>
+            <p>
+                <em>
+                    A holistic platform that gives your team all of the needed tools to create rewarding events,
+                    while surfacing insights to help your events grow in ways you never thought were possible.
+                </em>
+            </p>
+        </div>
+    </div>
+    </div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-8"style="margin-left:-50px;margin-top:300px;">
+            <h1 @*style="font-family: 'cookie'";*@><b><em>RUN EVENTS THAT IMPACT YOUR BUSINESS</em></b></h1>
+            <p>Create marketing programs to drive event registrations, design an on-brand digital experience
+            and bring people together through vibrant communities. Do all of this while measuring outcomes
+            and integrating event data across platforms. </p>
+        </div>
+        <div class="col-md-4">
+            <img src="~/images/home2.jpg"  style="width:400px;height:400px;margin-top:200px;margin-left:100px" />
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-2">
+            <img src="~/images/home3.jpg" style="width:400px;height:400px;margin-top:100px">
+        </div>
+        
+        <div class="col-md-8" style="margin-left:450px;margin-top:-300px">
+            <h1 @*style="font-family: 'cookie'";*@ ><b><em>EVENT PLANNING FOR THE 21st CENTURY</em></b></h1>
+            <p>
+                <em>
+                    Create the digital assets you need without relying on developers or navigating a clunky interface.
+                    Integrate Bizzabo with over 750 other platforms including Salesforce, Slack and Mailchimp to work
+                    efficiently between teams. It's what event management software always should have been.
+
+                </em>
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+
+

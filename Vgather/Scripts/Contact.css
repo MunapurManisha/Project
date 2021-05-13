@@ -1,0 +1,21 @@
+﻿body {
+    background-image: url('../imagescon/hunters-race-MYbhN8KaaEc-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.jumbotron {
+    margin-top: 50px;
+    height: 500px;
+    width: 600px;
+    margin-left: 250px;
+    margin-right: 100px;
+}
+
+.form {
+    margin: 0 auto;
+    width: 210px;
+}

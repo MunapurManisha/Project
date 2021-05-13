@@ -1,0 +1,179 @@
+﻿
+@{
+    ViewBag.Title = "Articles";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+<link href="~/Scripts/Article.css" rel="stylesheet" />
+
+<head>
+    <meta charset="utf-8" />
+
+    <title></title>
+    <script>
+
+
+
+        function changeAuthForm(x) {
+            if (x == 0) {
+
+                document.getElementById("photo").style.display = "block"
+                document.getElementById("video").style.display = "none"
+            } else {
+
+                document.getElementById("photo").style.display = "none"
+                document.getElementById("video").style.display = "block"
+            }
+        }
+
+    </script>
+
+</head>
+
+
+
+<div style="margin-top:80px;margin-bottom:10px;">
+
+    <button id="Photos" class="btn btn-secondary" onClick="changeAuthForm(0)">Photos</button>
+    <button id="Videos" class="btn btn-outline-secondary" onClick="changeAuthForm(1)">Videos</button>
+</div>
+
+
+
+
+
+
+<div id="photo" style="display:block;">
+    <div class="row">
+
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/i-1.jpg" style="height:340px;width:375px;border-radius:20px;" />
+            </div>
+        </div>
+
+
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/i-2.jpg" style="height:340px;width:375px;border-radius:20px;" />
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/i-4.jpg" style="height:340px;width:375px;border-radius:20px;" />
+            </div>
+        </div>
+
+    </div>
+
+<Hr>
+<div class="row">
+
+    <div class="col-lg-4">
+        <div class="zoom">
+            <img src="~/imagesart/i-13.jpg" style="height:340px;width:375px;border-radius:20px" />
+        </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/i-15.jpg" style="height:350px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/i-10.jpg" style="height:350px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+    </div>
+    <Hr>
+    <div class="row">
+
+        <div class="col-lg-4">
+
+            <div class="zoom">
+                <img src="~/imagesart/i-11.jpg" style="height:340px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+        <div class="col-lg-4">
+
+            <div class="zoom">
+                <img src="~/imagesart/i-3.jpg" style="height:350px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+        <div class="col-lg-4">
+
+            <div class="zoom">
+                <img src="~/imagesart/i-21.jpg" style="height:350px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="video" style="display:none">
+    <div class="row" style="margin-bottom:100px">
+        <div class="col-lg-6">
+
+            <video autoplay muted loop style="height:500px;width:500px;margin-left:50px; ">
+                <source src="~/Videos/Vid1.mp4" type="video/mp4" />
+            </video>
+        </div>
+        <div class="col-lg-6">
+
+            <video autoplay muted loop style="height:500px;width:500px;margin-left:50px;">
+                <source src="~/Videos/Vid2.mp4" type="video/mp4" />
+            </video>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="row">
+            <div class="col-lg-6">
+                <video autoplay muted loop style="height:500px;width:500px;margin-left:50px;margin-top:-200px">
+                    <source src="~/Videos/Vid3.mp4" type="video/mp4" />
+                </video>
+
+            </div>
+            <div class="col-lg-6">
+
+
+                <video autoplay muted loop style="height:500px;width:500px;;margin-left:50px;margin-top:-200px">
+                    <source src="~/Videos/Vid4.mp4" type="video/mp4" />
+                </video>
+            </div>
+        </div>
+
+
+    </div>
+    <hr />
+    <div class="row">
+        <div class="row">
+            <div class="col-lg-6">
+                <video autoplay muted loop style="height:500px;width:500px;margin-left:50px;margin-top:-200px">
+                    <source src="~/Videos/Vid5.mp4" type="video/mp4" />
+                </video>
+
+            </div>
+            <div class="col-lg-6">
+
+
+                <video autoplay muted loop style="height:500px;width:500px;margin-left:50px;margin-top:-200px">
+
+
+                    <source src="~/Videos/Vid6.mp4" type="video/mp4" />
+
+
+                </video>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+

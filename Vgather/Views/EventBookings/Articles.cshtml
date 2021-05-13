@@ -1,0 +1,107 @@
+﻿
+@{
+    ViewBag.Title = "Articles";
+}
+<br/><br/>
+<h2>Images</h2>
+<link href="~/Scripts/Article.css" rel="stylesheet" />
+
+<head>
+    <meta charset="utf-8" />
+
+    <title></title>
+    <script>function changeAuthForm(x) {
+            if (x == 0) {
+
+                document.getElementById("photo").style.display = "block"
+                
+            } else {
+
+                document.getElementById("photo").style.display = "none"
+                
+            }
+        }</script>
+
+</head>
+
+
+
+<div style="margin-top:80px;margin-bottom:10px;">
+
+    <button id="Photos" class="btn btn-secondary" onClick="changeAuthForm(0)">Photos</button>
+    
+</div>
+
+
+
+
+
+
+<div id="photo" style="display:block;">
+    <div class="row">
+
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/invi1.jpg" style="height:340px;width:375px;border-radius:20px;" />
+            </div>
+        </div>
+
+
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/invi2.jpg" style="height:340px;width:375px;border-radius:20px;" />
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/invi4.png" style="height:340px;width:375px;border-radius:20px;" />
+            </div>
+        </div>
+
+    </div>
+
+    <Hr>
+    <div class="row">
+
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/invi3.png" style="height:340px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/invi5.png" style="height:350px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="zoom">
+                <img src="~/imagesart/invi6.jfif" style="height:350px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+    </div>
+    <Hr>
+    <div class="row">
+
+        <div class="col-lg-4">
+
+            <div class="zoom">
+                <img src="~/imagesart/invi7.png" style="height:340px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+        <div class="col-lg-4">
+
+            <div class="zoom">
+                <img src="~/imagesart/invi8.jfif" style="height:350px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+        <div class="col-lg-4">
+
+            <div class="zoom">
+                <img src="~/imagesart/invi9.jfif" style="height:350px;width:375px;border-radius:20px" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f005e51cab34445393e78dcaa5e2579d" Name="Diagram1">
+        <EntityTypeShape EntityType="EventManagementModel.Admin" Width="1.5" PointX="7.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.EventBooking" Width="1.5" PointX="5.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.EventType" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.FeedBack" Width="1.5" PointX="9.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.Image" Width="1.5" PointX="9.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.Participant" Width="1.5" PointX="7.5" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.payment_Booking" Width="1.5" PointX="3" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.Payment" Width="1.5" PointX="3" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.Registration" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.service_company" Width="1.5" PointX="3" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.service_Items" Width="1.5" PointX="5.25" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.Service" Width="1.5" PointX="7.75" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.serviceType" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.sysdiagram" Width="1.5" PointX="9.75" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EventManagementModel.Venue" Width="1.5" PointX="3" PointY="16.25" IsExpanded="true" />
+        <AssociationConnector Association="EventManagementModel.FK_EventPayment" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.FK_EventypeID" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.FK_ParticipantsEvent" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.fk_payment" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.FK_ServiceCompany_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.FK_Servicetype" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.fk_venue" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.Fk_EventType" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.FK_ParticipantsReg" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.FK_service_company" ManuallyRouted="false" />
+        <AssociationConnector Association="EventManagementModel.FK_service_Items" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="EventManagementModel.AdminFeedbackForm" Width="1.5" PointX="12.375" PointY="1.125" />
+        <EntityTypeShape EntityType="EventManagementModel.FeedBackForm" Width="1.5" PointX="14.625" PointY="0.875" />
+        <AssociationConnector Association="EventManagementModel.FK__FeedBackF__Ques1__74AE54BC" />
+        <EntityTypeShape EntityType="EventManagementModel.ContactList2" Width="1.5" PointX="12.375" PointY="3.875" />
+        <EntityTypeShape EntityType="EventManagementModel.invitation2" Width="1.5" PointX="14.625" PointY="3.875" />
+        <AssociationConnector Association="EventManagementModel.FK__invitatio__Conta__0B91BA14" />
+        <EntityTypeShape EntityType="EventManagementModel.TriggerFeed" Width="1.5" PointX="12.375" PointY="6.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,225 @@
+﻿@model Vgather.Models.EventBooking
+
+@{
+    ViewBag.Title = "Book Your Event";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+<br/><br/>
+<h1><b>Event Booking</b></h1>
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<link href="~/Content/eventbook.css" rel="stylesheet" />
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.Event_Name, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Event_Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Event_Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Start_Date, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Start_Date, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Start_Date, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.End_Date, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.End_Date, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.End_Date, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.No_Of_Participants, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.No_Of_Participants, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.No_Of_Participants, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    @*<div class="form-group">
+            @Html.LabelFor(model => model.Pay_Event_BookingID, "Pay_Event_BookingID", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("Pay_Event_BookingID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Pay_Event_BookingID, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+
+    @*<div class="form-group">
+            @Html.LabelFor(model => model.Venue_ID, "Venue_ID", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("Venue_ID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Venue_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+
+    @*<div class="form-group">
+            @Html.LabelFor(model => model.servicetypeid, "servicetypeid", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("servicetypeid", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.servicetypeid, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+
+    @*<div class="form-group">
+            @Html.LabelFor(model => model.PaymentID, "PaymentID", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("PaymentID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.PaymentID, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+
+    @*<div class="form-group">
+            @Html.LabelFor(model => model.EventTypeID, "EventTypeID", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("EventTypeID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.EventTypeID, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.EventTypeID, "EventTypeID", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("EventTypeID", null, htmlAttributes: new { @id = "ddlEvent", @class = "control-label col-md-2" })
+            @Html.ValidationMessageFor(model => model.EventTypeID, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.Label("VenueName", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <div id="Venue">
+                @Html.DropDownList("Venue_ID", null, htmlAttributes: new { @id = "ddlVenue", @name = "Venue_ID", @class = "control-label col-md-2" })
+
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    @*<div class="form-group">
+            @Html.LabelFor(model => model.Service_Company_ID, "Service_Company_ID", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("Service_Company_ID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Service_Company_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Descriptions, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Descriptions, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Descriptions, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    @*<div class="form-group">
+            @Html.LabelFor(model => model.EventType, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.EventType, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.EventType, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Venue, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Venue, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Venue, "", new { @class = "text-danger" })
+            </div>
+        </div>*@
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.FoodCompany, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            
+            @Html.DropDownListFor(model => model.Venue, new SelectList(new[] { "South India thali", "North Indian Thali", "Punjab Thali", "Maharashtrian thali" }), new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.FoodCompany, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ElectricalCompany, htmlAttributes: new { @class = "control-label col-md-2" })
+
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.Venue, new SelectList(new[] { "String Lights", "Acqualina outdoor Lights" }), new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.FoodCompany, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    @*@using (Html.BeginForm("MyAction", "EventBookings"))
+
+
+        {
+            <input type="button" value="Click to book the Venue" />
+
+        }*@
+
+
+    <button class="btn-success">@Html.ActionLink("Bookdate", "MyAction", "EventBookings")</button>
+
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#ddlEvent').change(function () {
+            $.ajax({
+                type: "post",
+                url: "/EventBookings/GetVenue",
+                data: { EventTypeID: $('#ddlEvent').val() },
+                datatype: "json",
+                traditional: true,
+                success: function (data) {
+                    var Venue = "<select id='ddlVenue' name = 'Venue_ID'>";
+                    Venue = Venue + '<option value="">--Select--</option>';
+                    for (var i = 0; i < data.length; i++) {
+                        Venue = Venue + '<option value=' + data[i].Value + '>' + data[i].Text + '</option>';
+                    }
+                    Venue = Venue + '</select>';
+                    $('#Venue').html(Venue);
+                }
+            });
+        });
+
+
+    });
+
+
+</script>
+

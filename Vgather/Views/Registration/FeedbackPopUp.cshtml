@@ -1,0 +1,98 @@
+﻿@model Vgather.Models.Registration
+
+@{
+    ViewBag.Title = "FeedbackPopUp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+    .button {
+        background-color: red;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+
+    .button1 {
+        background-color: green;
+        border: none;
+        color: white;
+        text-align: right;
+        display: inline-block;
+        font-size: 25px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+</style>
+
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">
+        ×
+    </button>
+    <h4 class="modal-title">Login</h4>
+</div>
+
+<div class="modal fade" tabindex="-1" id="loginModal"
+     data-keyboard="false" data-backdrop="static">
+
+    <div class="modal-dialog modal-lg">
+
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    ×
+                </button>
+                <h4 class="modal-title">Enter Feedback/Review</h4>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <input class="form-control" type="text"
+                               placeholder="Enter your UserID" id="inputuserid" />
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control" type="text"
+                               placeholder="Enter Your Rating" id="inputrating" />
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Write you Description"
+                               type="text" id="inputdescription" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-primary button button1">Submit</button>
+            </div>
+        </div>
+        <footer>
+            <p style="background-color: Yellow; font-weight: bold; color:blue; text-align: center; font-style: oblique">
+                ©
+                <script>document.write(new Date().toDateString());</script>
+            </p>
+        </footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
+
+        </script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $("#btnShowModal").click(function () {
+                    $("#loginModal").modal('show');
+                });
+
+                $("#btnHideModal").click(function () {
+                    $("#loginModal").modal('hide');
+                });
+            });
+        </script>
+    </div>
+</div>

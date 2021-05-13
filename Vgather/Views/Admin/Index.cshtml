@@ -1,0 +1,100 @@
+﻿@model Vgather.Models.EventBooking
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br/><br/>
+<h2>Index</h2>
+<div>
+    <table>
+        <thead>
+        <th>Registration_ID</th>
+        <th>UserId</th>
+        <th>ContactNumber</th>
+        <th>Event_Name</th>
+        <th>Start_Date</th>
+        <th>End_Date</th>
+        <th>EventTypeID</th>
+        <th>Venue</th>
+        </thead>
+        @foreach (var item in ViewBag.userdetails)
+        {
+
+            <tr>
+                <td>
+                    @item.Registration_ID
+                </td>
+                <td>
+                    @item.UserId
+                </td>
+                <td>
+                    @item.ContactNumber
+                </td>
+                <td>
+                    @item.Event_Name
+                </td>
+                <td>
+                    @item.Start_Date
+                </td>
+                <td>
+                    @item.End_Date
+                </td>
+                <td>
+                    @item.EventTypeID
+
+                </td>
+                <td>
+                    @item.Venue
+
+                </td>
+            </tr>
+
+
+
+        }
+
+    </table>
+</div>
+<p>
+
+    @Html.ActionLink("Back to List", "Index")
+</p>
+<style>
+    table#t01 {
+        width: 100%;
+        background-color: #f1f1c1;
+    }
+
+        table#t01 tr:nth-child(even) {
+            background-color: #eee;
+        }
+
+        table#t01 tr:nth-child(odd) {
+            background-color: #fff;
+        }
+
+        table#t01 th {
+            color: white;
+            background-color: blue;
+        }
+
+    table, th, td {
+        border: 1px solid black;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 15px;
+    }
+}
+</style>

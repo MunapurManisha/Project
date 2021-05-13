@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Vgather.Models.invitation2>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ContactNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ContactName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Venue_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ContactList2.UserId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.ContactNumber)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ContactName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Venue_Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ContactList2.UserId)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.ContactName }) |
+        @Html.ActionLink("Details", "Details", new { id = item.ContactName }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.ContactName })
+    </td>
+</tr>
+}
+
+</table>

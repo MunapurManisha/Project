@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Vgather </title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    @*<link href="~/Scripts/FooterstyleVG.css" rel="stylesheet" />*@
+    <link href="~/Scripts/HeaderVG.css" rel="stylesheet" />
+    <link href="~/Scripts/Footersimple.css" rel="stylesheet" />
+
+
+    @*<link href="~/Scripts/home.css" rel="stylesheet" />*@
+
+    <link href="~/Scripts/Footersimple.css" rel="stylesheet" />
+
+
+    <link href='https://fonts.googleapis.com/css?family=Cookie' rel='stylesheet'>
+    @*<script src="~/Scripts/VGscript.js"></script>*@
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    @*<div class="navbar-collapse collapse">*@
+    @*<ul class="nav navbar-nav">*@
+    @*@Html.ActionLink("Home", "Index", "HomePage")
+        @Html.ActionLink("About", "About", "HomePage")
+        @Html.ActionLink("Service", "Service", "HomePage")
+        @Html.ActionLink("Gallery", "Articles", "HomePage")
+        @Html.ActionLink("Login/Register", "Create", "Registration")*@
+    @*</ul>
+        </div>
+        <div>
+
+            @Html.Partial("Header");
+        </div>*@
+
+
+</head>
+<body>
+    <header>
+        <div>
+
+            <div id="navbar" style="height:100px">
+
+
+                <div id="navbar-right">
+
+
+                    @Html.ActionLink("Home", "Index", "HomePage")
+                    @Html.ActionLink("+FeedBack", "Create", "AdminFeedbackForms")
+                    @Html.ActionLink("Gallery", "Articles", "Homepage")
+                    @Html.ActionLink("Queries", "Contact", "Homepage")
+                    @Html.ActionLink("+Event Status", "Index", "Admin")
+                    @Html.ActionLink(" +Invitations", "Addimage", "Admin")
+                    @Html.Partial("_ALoginPartial", new { @style = "margin-Top:200px;" })
+
+                    @*<a href="#login" id="login" class="btn btn-info btn-md"  data-toggle="modal" data-target="#LoginForm">Login</a>*@
+                    @*<a href="#Login" id="register" @*class="btn btn-info btn-md"*@
+                    @*data-toggle="modal" data-target="#ShowModal">Register</a>*@
+                    @*<a href="#Login" id="register" @*class="btn btn-info btn-md"*@
+                    @* data-toggle="modal" data-target="#ShowModal">Register</a>*@
+                    @*<a href="#Login" id="register" @*class="btn btn-info btn-md"*@
+                    @*data-toggle="modal" data-target="#ShowModal">Register</a>*@
+                    <a href="#default" id="logo" style="font-family: 'Cookie';font-size:40px;"><img src="~/Imagescar/logo.jpg" style="width:50px;height:50px;">VGather</a>
+                </div>
+                
+
+
+                </div>
+            </div>
+
+            @*@Html.Partial("_LoginPartial");*@
+        </div>
+    </header>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+
+
+        <footer style="opacity:0.7">
+            <div class="footer" style=" width: 115%; padding-top: 50px ;background-color: #000000;color: white;margin-left: -85px;margin-bottom:-50px;border-radius:5%;">
+                <div class="row">
+                    <div class="col-lg-4">
+
+
+
+                        <a style="font-family: 'Cookie';font-size:50px;color:#d4c8c8;"> <img src="~/imagescon/VG.jpg" style="width:80px;height:60px;margin-left:50px;" />VGather</a>
+
+
+
+                    </div>
+                    <div class="col-lg-4">
+                        <p @*style="margin-right:150px;text-align:center;"*@>For Queries:9999444467</p><br />
+                        <p>Email:Vgather@gmail.com</p><br />
+                        <p>Block 4, DLF IT Park, SEZ Campus, 1/124,<br> Manapakkam,Chennai, Tamil Nadu 600089</p><br />
+
+
+
+
+                    </div>
+                    <div class="col-lg-4">
+
+                        <a href="#" class="fa fa-facebook"></a>
+                        <a href="#" class="fa fa-twitter"></a>
+                        <a href="#" class="fa fa-google"></a>
+                        <a href="#" class="fa fa-linkedin"></a>
+                        <a href="#" class="fa fa-instagram"></a>
+                    </div>
+                    @*<div>
+                            <p style="margin-right:150px;text-align:center;">&copy; @DateTime.Now.Year - VGather.com</p>
+                        </div>*@
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+
+

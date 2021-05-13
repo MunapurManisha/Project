@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventManagementModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Email_ID" Type="varchar" MaxLength="30" />
+    <Property Name="Password" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="AdminFeedbackForm">
+    <Key>
+      <PropertyRef Name="Ques1" />
+    </Key>
+    <Property Name="Ques1" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ContactList2">
+    <Key>
+      <PropertyRef Name="ContactName" />
+    </Key>
+    <Property Name="UserId" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="ContactName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="ContactNumber" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EventBookings">
+    <Key>
+      <PropertyRef Name="Event_ID" />
+    </Key>
+    <Property Name="Event_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Event_Name" Type="varchar" MaxLength="30" />
+    <Property Name="Start_Date" Type="datetime" />
+    <Property Name="End_Date" Type="datetime" />
+    <Property Name="No_Of_Participants" Type="int" />
+    <Property Name="Pay_Event_BookingID" Type="int" />
+    <Property Name="Venue_ID" Type="int" />
+    <Property Name="servicetypeid" Type="varchar" MaxLength="20" />
+    <Property Name="PaymentID" Type="int" />
+    <Property Name="EventTypeID" Type="varchar" MaxLength="20" />
+    <Property Name="Service_Company_ID" Type="varchar" MaxLength="20" />
+    <Property Name="Descriptions" Type="varchar" MaxLength="100" />
+    <Property Name="EventType" Type="varchar" MaxLength="20" />
+    <Property Name="Venue" Type="varchar" MaxLength="20" />
+    <Property Name="FoodCompany" Type="varchar" MaxLength="20" />
+    <Property Name="ElectricalCompany" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="EventTypes">
+    <Key>
+      <PropertyRef Name="EventTypeID" />
+    </Key>
+    <Property Name="EventTypeID" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="EventType1" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="FeedBack">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Rating" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FeedBackForm">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Ques1" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Rating" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Images">
+    <Key>
+      <PropertyRef Name="image_id" />
+    </Key>
+    <Property Name="image_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="location" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="invitation2">
+    <Key>
+      <PropertyRef Name="ContactName" />
+    </Key>
+    <Property Name="ContactNumber" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ContactName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Venue_Name" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Participants">
+    <Key>
+      <PropertyRef Name="participantsPaymentID" />
+    </Key>
+    <Property Name="Registration_ID" Type="int" />
+    <Property Name="Event_ID" Type="int" />
+    <Property Name="EventName" Type="varchar" MaxLength="30" />
+    <Property Name="CompanyName" Type="varchar" MaxLength="20" />
+    <Property Name="Email" Type="varchar" MaxLength="20" />
+    <Property Name="Contactnumber" Type="varchar" MaxLength="20" />
+    <Property Name="participantName" Type="varchar" MaxLength="30" />
+    <Property Name="participantsPaymentID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="payment_Booking">
+    <Key>
+      <PropertyRef Name="Pay_Event_BookingID" />
+    </Key>
+    <Property Name="Pay_Event_BookingID" Type="int" Nullable="false" />
+    <Property Name="Payment_Type" Type="varchar" MaxLength="20" />
+    <Property Name="Card_Number" Type="varchar" MaxLength="20" />
+    <Property Name="Amount" Type="decimal" Precision="19" Scale="4" />
+    <Property Name="Payment_Status" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Payments">
+    <Key>
+      <PropertyRef Name="PaymentID" />
+    </Key>
+    <Property Name="Payment_Status" Type="varchar" MaxLength="20" />
+    <Property Name="CardNumber" Type="varchar" MaxLength="30" />
+    <Property Name="Amount" Type="decimal" Precision="19" Scale="4" />
+    <Property Name="PaymentID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="payment_Type" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Registrations">
+    <Key>
+      <PropertyRef Name="Registration_ID" />
+    </Key>
+    <Property Name="Registration_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="20" />
+    <Property Name="LastName" Type="varchar" MaxLength="20" />
+    <Property Name="DoB" Type="datetime" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" />
+    <Property Name="ContactNumber" Type="varchar" MaxLength="20" />
+    <Property Name="UserId" Type="varchar" MaxLength="200" />
+    <Property Name="Password" Type="varchar" MaxLength="100" />
+    <Property Name="question1" Type="varchar" MaxLength="100" />
+    <Property Name="question2" Type="varchar" MaxLength="100" />
+    <Property Name="question3" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="service_company">
+    <Key>
+      <PropertyRef Name="Service_Company_ID" />
+    </Key>
+    <Property Name="Service_Company_ID" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Service_Company1" Type="varchar" MaxLength="20" />
+    <Property Name="ServiceTypeID" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="service_Items">
+    <Key>
+      <PropertyRef Name="service_item_id" />
+    </Key>
+    <Property Name="service_items1" Type="varchar" MaxLength="20" />
+    <Property Name="Service_Company_ID" Type="varchar" MaxLength="20" />
+    <Property Name="items" Type="varchar" MaxLength="20" />
+    <Property Name="service_item_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Services">
+    <Key>
+      <PropertyRef Name="serviceID" />
+    </Key>
+    <Property Name="Company_Name" Type="varchar" MaxLength="30" />
+    <Property Name="Description" Type="varchar" MaxLength="30" />
+    <Property Name="Type" Type="varchar" MaxLength="30" />
+    <Property Name="Contact_Email" Type="varchar" MaxLength="40" />
+    <Property Name="Address" Type="varchar" MaxLength="40" />
+    <Property Name="Phone_no" Type="varchar" MaxLength="15" />
+    <Property Name="Certification" Type="varchar" MaxLength="30" />
+    <Property Name="serviceID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="serviceTypes">
+    <Key>
+      <PropertyRef Name="ServiceTypeID" />
+    </Key>
+    <Property Name="ServiceTypeID" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="ServiceType1" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TriggerFeed">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="ques1" Type="nvarchar" MaxLength="200" />
+    <Property Name="rating" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Venues">
+    <Key>
+      <PropertyRef Name="Venue_ID" />
+    </Key>
+    <Property Name="Venue_ID" Type="int" Nullable="false" />
+    <Property Name="Venue_Name" Type="varchar" MaxLength="30" />
+    <Property Name="Capacity" Type="varchar" MaxLength="10" />
+    <Property Name="Budget" Type="varchar" MaxLength="10" />
+    <Property Name="Venue_Type" Type="varchar" MaxLength="30" />
+    <Property Name="Availability_Status" Type="varchar" MaxLength="10" />
+    <Property Name="EventTypeID" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <Association Name="FK__FeedBackF__Ques1__74AE54BC">
+    <End Role="AdminFeedbackForm" Type="Self.AdminFeedbackForm" Multiplicity="1" />
+    <End Role="FeedBackForm" Type="Self.FeedBackForm" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AdminFeedbackForm">
+        <PropertyRef Name="Ques1" />
+      </Principal>
+      <Dependent Role="FeedBackForm">
+        <PropertyRef Name="Ques1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__invitatio__Conta__0B91BA14">
+    <End Role="ContactList2" Type="Self.ContactList2" Multiplicity="1" />
+    <End Role="invitation2" Type="Self.invitation2" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="ContactList2">
+        <PropertyRef Name="ContactName" />
+      </Principal>
+      <Dependent Role="invitation2">
+        <PropertyRef Name="ContactName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EventPayment">
+    <End Role="payment_Booking" Type="Self.payment_Booking" Multiplicity="0..1" />
+    <End Role="EventBookings" Type="Self.EventBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="payment_Booking">
+        <PropertyRef Name="Pay_Event_BookingID" />
+      </Principal>
+      <Dependent Role="EventBookings">
+        <PropertyRef Name="Pay_Event_BookingID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_EventType">
+    <End Role="EventTypes" Type="Self.EventTypes" Multiplicity="0..1" />
+    <End Role="Venues" Type="Self.Venues" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EventTypes">
+        <PropertyRef Name="EventTypeID" />
+      </Principal>
+      <Dependent Role="Venues">
+        <PropertyRef Name="EventTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EventypeID">
+    <End Role="EventTypes" Type="Self.EventTypes" Multiplicity="0..1" />
+    <End Role="EventBookings" Type="Self.EventBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EventTypes">
+        <PropertyRef Name="EventTypeID" />
+      </Principal>
+      <Dependent Role="EventBookings">
+        <PropertyRef Name="EventTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ParticipantsEvent">
+    <End Role="EventBookings" Type="Self.EventBookings" Multiplicity="0..1" />
+    <End Role="Participants" Type="Self.Participants" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EventBookings">
+        <PropertyRef Name="Event_ID" />
+      </Principal>
+      <Dependent Role="Participants">
+        <PropertyRef Name="Event_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ParticipantsReg">
+    <End Role="Registrations" Type="Self.Registrations" Multiplicity="0..1" />
+    <End Role="Participants" Type="Self.Participants" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Registrations">
+        <PropertyRef Name="Registration_ID" />
+      </Principal>
+      <Dependent Role="Participants">
+        <PropertyRef Name="Registration_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_payment">
+    <End Role="Payments" Type="Self.Payments" Multiplicity="0..1" />
+    <End Role="EventBookings" Type="Self.EventBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Payments">
+        <PropertyRef Name="PaymentID" />
+      </Principal>
+      <Dependent Role="EventBookings">
+        <PropertyRef Name="PaymentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_service_company">
+    <End Role="serviceTypes" Type="Self.serviceTypes" Multiplicity="0..1" />
+    <End Role="service_company" Type="Self.service_company" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="serviceTypes">
+        <PropertyRef Name="ServiceTypeID" />
+      </Principal>
+      <Dependent Role="service_company">
+        <PropertyRef Name="ServiceTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_service_Items">
+    <End Role="service_company" Type="Self.service_company" Multiplicity="0..1" />
+    <End Role="service_Items" Type="Self.service_Items" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="service_company">
+        <PropertyRef Name="Service_Company_ID" />
+      </Principal>
+      <Dependent Role="service_Items">
+        <PropertyRef Name="Service_Company_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ServiceCompany_ID">
+    <End Role="service_company" Type="Self.service_company" Multiplicity="0..1" />
+    <End Role="EventBookings" Type="Self.EventBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="service_company">
+        <PropertyRef Name="Service_Company_ID" />
+      </Principal>
+      <Dependent Role="EventBookings">
+        <PropertyRef Name="Service_Company_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Servicetype">
+    <End Role="serviceTypes" Type="Self.serviceTypes" Multiplicity="0..1" />
+    <End Role="EventBookings" Type="Self.EventBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="serviceTypes">
+        <PropertyRef Name="ServiceTypeID" />
+      </Principal>
+      <Dependent Role="EventBookings">
+        <PropertyRef Name="servicetypeid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_venue">
+    <End Role="Venues" Type="Self.Venues" Multiplicity="0..1" />
+    <End Role="EventBookings" Type="Self.EventBookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Venues">
+        <PropertyRef Name="Venue_ID" />
+      </Principal>
+      <Dependent Role="EventBookings">
+        <PropertyRef Name="Venue_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="prc_allEvents" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="EventManagementModelStoreContainer">
+    <EntitySet Name="Admin" EntityType="Self.Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AdminFeedbackForm" EntityType="Self.AdminFeedbackForm" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ContactList2" EntityType="Self.ContactList2" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventBookings" EntityType="Self.EventBookings" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventTypes" EntityType="Self.EventTypes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FeedBack" EntityType="Self.FeedBack" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FeedBackForm" EntityType="Self.FeedBackForm" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Images" EntityType="Self.Images" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="invitation2" EntityType="Self.invitation2" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Participants" EntityType="Self.Participants" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="payment_Booking" EntityType="Self.payment_Booking" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Payments" EntityType="Self.Payments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Registrations" EntityType="Self.Registrations" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="service_company" EntityType="Self.service_company" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="service_Items" EntityType="Self.service_Items" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Services" EntityType="Self.Services" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="serviceTypes" EntityType="Self.serviceTypes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TriggerFeed" EntityType="Self.TriggerFeed" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Venues" EntityType="Self.Venues" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__FeedBackF__Ques1__74AE54BC" Association="Self.FK__FeedBackF__Ques1__74AE54BC">
+      <End Role="AdminFeedbackForm" EntitySet="AdminFeedbackForm" />
+      <End Role="FeedBackForm" EntitySet="FeedBackForm" />
+    </AssociationSet>
+    <AssociationSet Name="FK__invitatio__Conta__0B91BA14" Association="Self.FK__invitatio__Conta__0B91BA14">
+      <End Role="ContactList2" EntitySet="ContactList2" />
+      <End Role="invitation2" EntitySet="invitation2" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EventPayment" Association="Self.FK_EventPayment">
+      <End Role="payment_Booking" EntitySet="payment_Booking" />
+      <End Role="EventBookings" EntitySet="EventBookings" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_EventType" Association="Self.Fk_EventType">
+      <End Role="EventTypes" EntitySet="EventTypes" />
+      <End Role="Venues" EntitySet="Venues" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EventypeID" Association="Self.FK_EventypeID">
+      <End Role="EventTypes" EntitySet="EventTypes" />
+      <End Role="EventBookings" EntitySet="EventBookings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ParticipantsEvent" Association="Self.FK_ParticipantsEvent">
+      <End Role="EventBookings" EntitySet="EventBookings" />
+      <End Role="Participants" EntitySet="Participants" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ParticipantsReg" Association="Self.FK_ParticipantsReg">
+      <End Role="Registrations" EntitySet="Registrations" />
+      <End Role="Participants" EntitySet="Participants" />
+    </AssociationSet>
+    <AssociationSet Name="fk_payment" Association="Self.fk_payment">
+      <End Role="Payments" EntitySet="Payments" />
+      <End Role="EventBookings" EntitySet="EventBookings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_service_company" Association="Self.FK_service_company">
+      <End Role="serviceTypes" EntitySet="serviceTypes" />
+      <End Role="service_company" EntitySet="service_company" />
+    </AssociationSet>
+    <AssociationSet Name="FK_service_Items" Association="Self.FK_service_Items">
+      <End Role="service_company" EntitySet="service_company" />
+      <End Role="service_Items" EntitySet="service_Items" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ServiceCompany_ID" Association="Self.FK_ServiceCompany_ID">
+      <End Role="service_company" EntitySet="service_company" />
+      <End Role="EventBookings" EntitySet="EventBookings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Servicetype" Association="Self.FK_Servicetype">
+      <End Role="serviceTypes" EntitySet="serviceTypes" />
+      <End Role="EventBookings" EntitySet="EventBookings" />
+    </AssociationSet>
+    <AssociationSet Name="fk_venue" Association="Self.fk_venue">
+      <End Role="Venues" EntitySet="Venues" />
+      <End Role="EventBookings" EntitySet="EventBookings" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

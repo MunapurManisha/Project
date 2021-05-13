@@ -1,0 +1,990 @@
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\ApplicationInsights.config
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Vgather.dll.config
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Vgather.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Vgather.pdb
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\csc.exe
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\csc.exe.config
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\csc.rsp
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\csi.exe
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\csi.exe.config
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\csi.rsp
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.AppContext.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Console.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.IO.Compression.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.IO.FileSystem.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.IO.Pipes.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Security.AccessControl.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Security.Claims.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Threading.Thread.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.ValueTuple.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Xml.XPath.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\vbc.exe
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\vbc.exe.config
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\vbc.rsp
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\VBCSCompiler.exe
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Antlr3.Runtime.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\EntityFramework.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\EntityFramework.SqlServer.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AI.Web.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.ApplicationInsights.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.Google.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Newtonsoft.Json.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Owin.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.Helpers.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.Mvc.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.Optimization.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.Razor.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.WebPages.Deployment.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.WebPages.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.WebPages.Razor.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\WebGrease.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.Helpers.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.Mvc.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.Optimization.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.Razor.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.WebPages.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.WebPages.Deployment.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Web.WebPages.Razor.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Newtonsoft.Json.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Antlr3.Runtime.pdb
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\EntityFramework.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\EntityFramework.SqlServer.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.Google.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.AI.Web.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pcuser\source\repos\Vgather\Vgather\obj\Debug\Vgather.csprojAssemblyReference.cache
+c:\users\pcuser\source\repos\Vgather\Vgather\obj\Debug\Vgather.csproj.CoreCompileInputs.cache
+c:\users\pcuser\source\repos\Vgather\Vgather\obj\Debug\Vgather.csproj.CopyComplete
+c:\users\pcuser\source\repos\Vgather\Vgather\obj\Debug\Vgather.dll
+c:\users\pcuser\source\repos\Vgather\Vgather\obj\Debug\Vgather.pdb
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\ApplicationInsights.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Vgather.dll.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Vgather.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Vgather.pdb
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\csc.exe
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\csc.exe.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\csc.rsp
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\csi.exe
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\csi.exe.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\csi.rsp
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.AppContext.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Collections.Immutable.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Console.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Diagnostics.Process.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.IO.Compression.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.IO.FileSystem.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.IO.Pipes.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Reflection.Metadata.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Security.AccessControl.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Security.Claims.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Security.Principal.Windows.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Threading.Thread.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.ValueTuple.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Xml.XmlDocument.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Xml.XPath.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\vbc.exe
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\vbc.exe.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\vbc.rsp
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\VBCSCompiler.exe
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\roslyn\VBCSCompiler.exe.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Antlr3.Runtime.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\EntityFramework.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\EntityFramework.SqlServer.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AI.Agent.Intercept.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AI.DependencyCollector.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AI.Web.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AI.WindowsServer.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.ApplicationInsights.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AspNet.Identity.Core.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.Cookies.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.Facebook.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.Google.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.OAuth.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.Twitter.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Web.Infrastructure.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Newtonsoft.Json.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Owin.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Diagnostics.DiagnosticSource.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.Helpers.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.Mvc.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.Optimization.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.Razor.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.WebPages.Deployment.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.WebPages.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.WebPages.Razor.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\WebGrease.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.Helpers.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.Mvc.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.Optimization.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.Razor.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.WebPages.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.WebPages.Deployment.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Web.WebPages.Razor.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Newtonsoft.Json.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Antlr3.Runtime.pdb
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\EntityFramework.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\EntityFramework.SqlServer.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AspNet.Identity.Core.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.Facebook.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.Cookies.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.Google.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.Twitter.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.Owin.Security.OAuth.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\System.Diagnostics.DiagnosticSource.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AI.DependencyCollector.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AI.WindowsServer.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.AI.Web.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\obj\Debug\Vgather.csprojAssemblyReference.cache
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\obj\Debug\Vgather.csproj.CoreCompileInputs.cache
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\obj\Debug\Vgather.csproj.CopyComplete
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\obj\Debug\Vgather.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather\Vgather\obj\Debug\Vgather.pdb
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\ApplicationInsights.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Vgather.dll.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Vgather.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Vgather.pdb
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\csc.exe
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\csc.exe.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\csc.rsp
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\csi.exe
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\csi.exe.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\csi.rsp
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.AppContext.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Collections.Immutable.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Console.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.Process.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.IO.Compression.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.IO.Pipes.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Reflection.Metadata.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Security.AccessControl.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Security.Claims.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Security.Principal.Windows.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Threading.Thread.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.ValueTuple.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XmlDocument.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\vbc.exe
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\vbc.exe.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\vbc.rsp
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe.config
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Antlr3.Runtime.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\EntityFramework.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AI.Agent.Intercept.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.ApplicationInsights.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Web.Infrastructure.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Newtonsoft.Json.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Owin.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.Helpers.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.Mvc.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.Optimization.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.Razor.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.WebPages.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\WebGrease.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.Helpers.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.Mvc.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.Optimization.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.Razor.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.WebPages.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Newtonsoft.Json.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Antlr3.Runtime.pdb
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\EntityFramework.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\obj\Debug\Vgather.csprojAssemblyReference.cache
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CoreCompileInputs.cache
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CopyComplete
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\obj\Debug\Vgather.dll
+\\Infchsza0409\get 791\Assignments\10664534-ARAVINDAN J\Vgather - Copy\Vgather\obj\Debug\Vgather.pdb
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\obj\Debug\Vgather.csprojAssemblyReference.cache
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CoreCompileInputs.cache
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\obj\Debug\Vgather.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\obj\Debug\Vgather.pdb
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\ApplicationInsights.config
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Vgather.dll.config
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Vgather.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Vgather.pdb
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\csc.exe
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\csc.exe.config
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\csc.rsp
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\csi.exe
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\csi.exe.config
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\csi.rsp
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.AppContext.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Console.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.IO.Compression.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Security.Claims.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Threading.Thread.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.ValueTuple.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\vbc.exe
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\vbc.exe.config
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\vbc.rsp
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Antlr3.Runtime.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\DHTMLX.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\EntityFramework.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Newtonsoft.Json.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Owin.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.Helpers.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.Mvc.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.Optimization.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.Razor.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.WebPages.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\WebGrease.dll
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\DHTMLX.pdb
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\DHTMLX.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.Helpers.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.Mvc.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.Optimization.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.Razor.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.WebPages.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Newtonsoft.Json.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Antlr3.Runtime.pdb
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\EntityFramework.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pcuser\Desktop\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CopyComplete
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\ApplicationInsights.config
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Vgather.dll.config
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Vgather.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Vgather.pdb
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\csc.exe
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\csc.exe.config
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\csc.rsp
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\csi.exe
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\csi.exe.config
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\csi.rsp
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.AppContext.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Collections.Immutable.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Console.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.Process.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.Compression.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.Pipes.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Reflection.Metadata.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.AccessControl.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Claims.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Principal.Windows.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Threading.Thread.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.ValueTuple.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XmlDocument.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\vbc.exe
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\vbc.exe.config
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\vbc.rsp
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe.config
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Antlr3.Runtime.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\DHTMLX.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\EntityFramework.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.Agent.Intercept.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.ApplicationInsights.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Web.Infrastructure.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Newtonsoft.Json.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Owin.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.Helpers.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.Mvc.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.Optimization.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.Razor.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\WebGrease.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\DHTMLX.pdb
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\DHTMLX.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.Helpers.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.Mvc.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.Optimization.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.Razor.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Newtonsoft.Json.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Antlr3.Runtime.pdb
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\EntityFramework.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\event management\start on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.csprojAssemblyReference.cache
+D:\event management\start on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CoreCompileInputs.cache
+D:\event management\start on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CopyComplete
+D:\event management\start on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.dll
+D:\event management\start on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.pdb
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\ApplicationInsights.config
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Vgather.dll.config
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Vgather.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Vgather.pdb
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\csc.exe
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\csc.exe.config
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\csc.rsp
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\csi.exe
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\csi.exe.config
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\csi.rsp
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.AppContext.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Collections.Immutable.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Console.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.Process.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.Compression.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.IO.Pipes.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Reflection.Metadata.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.AccessControl.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Claims.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Security.Principal.Windows.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Threading.Thread.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.ValueTuple.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XmlDocument.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\vbc.exe
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\vbc.exe.config
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\vbc.rsp
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe.config
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Antlr3.Runtime.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\DHTMLX.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\EntityFramework.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.Agent.Intercept.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.ApplicationInsights.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Web.Infrastructure.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Newtonsoft.Json.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Owin.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.Helpers.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.Mvc.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.Optimization.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.Razor.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\WebGrease.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\DHTMLX.pdb
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\DHTMLX.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.Helpers.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.Mvc.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.Optimization.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.Razor.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Newtonsoft.Json.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Antlr3.Runtime.pdb
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\EntityFramework.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\event management\final on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.csprojAssemblyReference.cache
+D:\event management\final on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CoreCompileInputs.cache
+D:\event management\final on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CopyComplete
+D:\event management\final on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.dll
+D:\event management\final on 28\Vgather - Copy\Vgather\obj\Debug\Vgather.pdb
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\ApplicationInsights.config
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Vgather.dll.config
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Vgather.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Vgather.pdb
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\csc.exe
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\csc.exe.config
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\csc.rsp
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\csi.exe
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\csi.exe.config
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\csi.rsp
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.AppContext.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Collections.Immutable.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Console.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.Process.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.IO.Compression.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.IO.Pipes.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Reflection.Metadata.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Security.AccessControl.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Security.Claims.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Threading.Thread.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.ValueTuple.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\vbc.exe
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\vbc.exe.config
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\vbc.rsp
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\roslyn\VBCSCompiler.exe.config
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Antlr3.Runtime.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\DHTMLX.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\EntityFramework.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.ApplicationInsights.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Web.Infrastructure.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Newtonsoft.Json.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Owin.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.Helpers.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.Mvc.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.Optimization.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.Razor.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.WebPages.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\WebGrease.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\DHTMLX.pdb
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\DHTMLX.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.Helpers.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.Mvc.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.Optimization.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.Razor.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.WebPages.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.WebPages.Deployment.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Web.WebPages.Razor.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Newtonsoft.Json.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Antlr3.Runtime.pdb
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\EntityFramework.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\EntityFramework.SqlServer.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Google.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\System.Diagnostics.DiagnosticSource.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AI.DependencyCollector.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AI.WindowsServer.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.AI.Web.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\obj\Debug\Vgather.csprojAssemblyReference.cache
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CoreCompileInputs.cache
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\obj\Debug\Vgather.csproj.CopyComplete
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\obj\Debug\Vgather.dll
+E:\CTS\MVC Sample Demos\Vgather - Copy\Vgather\obj\Debug\Vgather.pdb
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\ApplicationInsights.config
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Vgather.dll.config
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Vgather.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Vgather.pdb
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\csc.exe
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\csc.exe.config
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\csc.rsp
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\csi.exe
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\csi.exe.config
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\csi.rsp
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.AppContext.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Console.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.IO.Compression.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.IO.Pipes.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Security.Claims.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Threading.Thread.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.ValueTuple.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Xml.XPath.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\vbc.exe
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\vbc.exe.config
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\vbc.rsp
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\VBCSCompiler.exe
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Antlr3.Runtime.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\DHTMLX.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\EntityFramework.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\EntityFramework.SqlServer.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AI.Web.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.ApplicationInsights.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Newtonsoft.Json.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Owin.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.Helpers.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.Mvc.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.Optimization.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.Razor.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.WebPages.Deployment.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.WebPages.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.WebPages.Razor.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\WebGrease.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\DHTMLX.pdb
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\DHTMLX.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.Helpers.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.Mvc.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.Optimization.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.Razor.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.WebPages.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.WebPages.Deployment.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Web.WebPages.Razor.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Newtonsoft.Json.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Antlr3.Runtime.pdb
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\EntityFramework.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\EntityFramework.SqlServer.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.AI.Web.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\obj\Debug\Vgather.csproj.CoreCompileInputs.cache
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\obj\Debug\Vgather.csproj.CopyComplete
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\obj\Debug\Vgather.dll
+C:\Users\892389\Desktop\MVCEventsProject-master\MVCEventsProject-master\Vgather\obj\Debug\Vgather.pdb
